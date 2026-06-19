@@ -16,7 +16,7 @@ function SendIcon() {
 
 function App() {
   const [messages, setMessages] = useState([
-    { role: 'assistant', content: 'Hello! I am Node JS Guru. Ask me anything about Node.js!' },
+    { role: 'assistant', content: 'Hello! I am Node.js Expert. Ask me anything about Node.js!' },
   ])
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
@@ -69,7 +69,7 @@ function App() {
               <NodeIcon />
           </div>
           <div>
-            <h1>Node JS Guru</h1>
+            <h1>Node.js Expert</h1>
             <p className="header-subtitle">Your AI assistant for Node.js</p>
           </div>
         </div>
