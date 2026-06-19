@@ -1,4 +1,4 @@
-# RAGNode
+# Q & A - Node.js
 
 > **Node.js Guru** — A Retrieval-Augmented Generation chatbot that answers questions about Node.js using AI.
 
