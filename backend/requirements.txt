@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+langchain-openai
+langchain-qdrant
+langchain-community
+langchain-text-splitters
+python-dotenv
+pypdf
